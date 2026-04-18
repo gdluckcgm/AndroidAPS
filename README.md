@@ -1,12 +1,12 @@
-### 如何支持此项目？
+如何支持此项目？
 软件遵循GPL V3协议，是完全开源免费的，但开发者写代码、维护需要投入大量时间精力。
 大家的支持是项目得以延续的动力。
 支持码农哥加的功能，请点击以下链接(Sponsor)或者扫码。
 https://afdian.com/a/manong
 <a href="/Documentation/donation.jpg"><img src="/Documentation/donation.jpg?raw=true" alt="Donation" width="300"></a>
-### How to Build
-### 如何编译
-#### If your are familiar with Android development:
+How to Build
+如何编译
+If your are familiar with Android development:
 * Fork this repository.
 * Replace `keystore/demokeystore.jks` with your own key store file.
 * Add below secrets in the  `Actions secrets and variables` settings of your repository.  
@@ -18,7 +18,7 @@ https://afdian.com/a/manong
 * Trigger build in Github Actions
 * Download the `aaps.zip` file in `Artifacts`
 
-### 如果你熟悉安卓开发：
+如果你熟悉安卓开发：
 * 克隆此代码仓库到你自己的Github账号
 * 用你自己的安卓签名文件替换你克隆的仓库中的`keystore/demokeystore.jks`
 * 在你克隆的仓库设置中的  `Actions secrets and variables` 选项中添加如下秘密环境变量：  
